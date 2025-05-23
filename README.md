@@ -59,5 +59,5 @@ Pull requests welcome! Spot something missing or want to improve layout? Let’s
 
 ## 📄 License
 
-MIT License. Free to use, remix, and share.
+MIT License. Free to use, remix, and share. 
 
