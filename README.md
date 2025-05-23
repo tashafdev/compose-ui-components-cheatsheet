@@ -35,12 +35,7 @@ Welcome to the **ultimate reference guide** for Jetpack Compose UI — a structu
 - 🔄 Pull to Refresh
 - 📱 System UI
 
----
 
-## 🖼 Poster Slides
-
-View the full visual version of this cheat sheet as a carousel.  
-Slides are stored in the `/poster` directory and optimised for LinkedIn.
 
 ---
 
